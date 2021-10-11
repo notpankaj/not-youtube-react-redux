@@ -1,0 +1,4 @@
+npm i react-bootstrap bootstrap node-sass@4.14.1 react-icons
+npm i react-router-dom
+npm i react-redux redux redux-thunk redux-devtools-extension
+npm i react-infinite-scroll-component react-loading-skeleton react-lazy-load-image-component
